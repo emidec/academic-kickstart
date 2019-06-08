@@ -1,8 +1,7 @@
 hugo
 cd public
-git add .
-git commit -m "b"
+git commit -am "public"
 git push origin master
 cd ../
-git commit -am "c"
+git commit -am "local"
 git push
