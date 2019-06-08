@@ -59,6 +59,6 @@ user_groups:
 - Visitors
 ---
 
-Emiliano De Cristofaro is an Associate Professor (until recently "Reader") in Security and Privacy Enhancing Technologies at University College London (UCL), where he heads the [Information Security Research Group](http://sec.cs.ucl.ac.uk) in the Computer Science Department. Emiliano is also a Faculty Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/), the national institute for data science and AI. Before joining UCL in 2013, he was a research scientist at [Xerox PARC](https://www.parc.com). 
+Emiliano De Cristofaro is an Associate Professor/Reader in Security and Privacy Enhancing Technologies at University College London (UCL), where he heads the [Information Security Research Group](http://sec.cs.ucl.ac.uk) in the Computer Science Department. Emiliano is also a Faculty Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/), the national institute for data science and AI. Before joining UCL in 2013, he was a research scientist at [Xerox PARC](https://www.parc.com). 
 
 Dr De Cristofaro received a summa-cum-laude Laurea in Computer Science from the University of Salerno, Italy (2005), and a PhD from the University of California, Irvine, advised by Gene Tsudik (2011). During his PhD, he also spent a few months on research internships at NEC in Heidelberg (2008), INRIA in Grenoble (2009), and Nokia in Lausanne (2010).
