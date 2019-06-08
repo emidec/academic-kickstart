@@ -1,0 +1,901 @@
+@inproceedings{de2010practical,
+  title={Practical private set intersection protocols with linear complexity},
+  author={De Cristofaro, Emiliano and Tsudik, Gene},
+  booktitle={Financial Cryptography and Data Security},
+  pages={143--159},
+  year={2010},
+  organization={http://eprint.iacr.org/2009/491.pdf}
+}
+
+@inproceedings{de2009privacy,
+  title={Privacy-preserving policy-based information transfer},
+  author={De Cristofaro, Emiliano and Jarecki, Stanislaw and Kim, Jihye and Tsudik, Gene},
+  booktitle={International Symposium on Privacy Enhancing Technologies Symposium},
+  pages={164--184},
+  year={2009},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{de2010linear,
+  title={Linear-complexity private set intersection protocols secure in malicious model},
+  author={De Cristofaro, Emiliano and Kim, Jihye and Tsudik, Gene},
+  journal={Advances in Cryptology-ASIACRYPT 2010},
+  pages={213--231},
+  year={2010},
+  publisher={Springer Berlin/Heidelberg}
+}
+
+@article{blundo2007bluetooth,
+  title={A Bluetooth-based JXME infrastructure},
+  author={Blundo, Carlo and De Cristofaro, Emiliano},
+  journal={On the Move to Meaningful Internet Systems 2007: CoopIS, DOA, ODBASE, GADA, and IS},
+  pages={667--682},
+  year={2007},
+  publisher={Springer Berlin/Heidelberg}
+}
+
+@inproceedings{ateniese2011if,
+  title={(If) size matters: size-hiding private set intersection},
+  author={Ateniese, Giuseppe and De Cristofaro, Emiliano and Tsudik, Gene},
+  booktitle={International Workshop on Public Key Cryptography},
+  pages={156--173},
+  year={2011},
+  organization={Springer Berlin Heidelberg}
+}
+
+@inproceedings{de2009fair,
+  title={FAIR: fuzzy-based aggregation providing in-network resilience for real-time wireless sensor networks},
+  author={De Cristofaro, Emiliano and Bohli, Jens-Matthias and Westhoff, Dirk},
+  booktitle={Proceedings of the second ACM conference on Wireless network security},
+  pages={253--260},
+  year={2009},
+  organization={ACM}
+}
+
+@inproceedings{castelluccia2010private,
+  title={Private information disclosure from web searches},
+  author={Castelluccia, Claude and De Cristofaro, Emiliano and Perito, Daniele},
+  booktitle={Privacy Enhancing Technologies},
+  pages={38--55},
+  year={2010},
+  organization={Springer Berlin/Heidelberg}
+}
+
+@inproceedings{de2011efficient,
+  title={Efficient techniques for privacy-preserving sharing of sensitive information},
+  author={De Cristofaro, Emiliano and Lu, Yanbin and Tsudik, Gene},
+  booktitle={International Conference on Trust and Trustworthy Computing},
+  pages={239--253},
+  year={2011},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{auletta2010increasing,
+  title={Increasing privacy threats in the cyberspace: the case of Italian e-passports},
+  author={Auletta, Vincenzo and Blundo, Carlo and De Caro, Angelo and De Cristofaro, Emiliano and Persiano, Giuseppe and Visconti, Ivan},
+  journal={Financial Cryptography and Data Security},
+  pages={94--104},
+  year={2010},
+  publisher={Springer Berlin/Heidelberg}
+}
+
+@article{de2010some,
+  title={Some like it private: Sharing confidential information based on oblivious authorization},
+  author={De Cristofaro, Emiliano and Kim, Jihye},
+  journal={IEEE Security \& Privacy},
+  volume={8},
+  number={4},
+  pages={18--24},
+  year={2010},
+  publisher={IEEE}
+}
+
+@inproceedings{blundo2008distributed,
+  title={A distributed implementation of the certified information access service},
+  author={Blundo, Carlo and De Cristofaro, Emiliano and Del Sorbo, Aniello and Galdi, Clemente and Persiano, Giuseppe},
+  booktitle={European Symposium on Research in Computer Security},
+  pages={396--410},
+  year={2008},
+  organization={Springer Berlin Heidelberg}
+}
+
+@article{mishari2012harvesting,
+  title={Harvesting SSL Certificate Data to Identify Web-Fraud},
+  author={Mishari, Mishari Al and De Cristofaro, Emiliano and El Defrawy, Karim and Tsudik, Gene},
+  journal={International Journal of Network Security (IJSN)},
+  year={2012}
+}
+
+@inproceedings{castelluccia2011ephpub,
+  title={EphPub: Toward Robust Ephemeral Publishing},
+  author={Castelluccia, Claude and De Cristofaro, Emiliano and Francillon, Aur{\'e}lien and Kaafar, Mohamed-Ali},
+  booktitle={ICNP 2011},
+  year={2011},
+  organization={http://arxiv.org/abs/1003.5510}
+}
+
+@inproceedings{baldi2011countering,
+  title={Countering GATTACA: efficient and secure testing of fully-sequenced human genomes},
+  author={Baldi, Pierre and Baronio, Roberta and De Cristofaro, Emiliano and Gasti, Paolo and Tsudik, Gene},
+  booktitle={Proceedings of the 18th ACM conference on Computer and communications security},
+  pages={691--702},
+  year={2011},
+  organization={ACM}
+}
+
+@article{de2012experimenting,
+  title={Experimenting with Fast Private Set Intersection},
+  author={De Cristofaro, Emiliano and Tsudik, Gene},
+  journal={Trust and Trustworthy Computing},
+  pages={55--73},
+  year={2012},
+  publisher={Springer Berlin/Heidelberg}
+}
+
+@article{de2012fast,
+  title={Fast and Private Computation of Cardinality of Set Intersection and Union},
+  author={De Cristofaro, Emiliano and Gasti, Paolo and Tsudik, Gene},
+  year={2012},
+  publisher={CANS 2012}
+}
+
+@inproceedings{de2012hummingbird,
+  title={Hummingbird: Privacy at the time of Twitter},
+  author={De Cristofaro, Emiliano and Soriente, Claudio and Tsudik, Gene and Williams, Andrew},
+  booktitle={IEEE Security and Privacy 2012},
+  year={2012},
+  organization={IEEE}
+}
+
+@misc{aad2014method,
+  title={Method and apparatus for preserving privacy for appointment scheduling},
+  author={Aad, Imad and Niemi, Pentti Valtteri and Durussel, Anthony and De Cristofaro, Emiliano and Bilogrevic, Igor and Jadliwala, Murtuza and Hubaux, Jean-Pierre},
+  year={2014},
+  month=mar # "~4",
+  note={US Patent 8,667,062}
+}
+
+@article{de2012genodroid,
+  title={GenoDroid: Are Privacy-Preserving Genomic Tests Ready for Prime Time?},
+  author={De Cristofaro, Emiliano and Faber, Sky and Gasti, Paolo and Tsudik, Gene},
+  year={2012},
+  publisher={WPES 2012}
+}
+
+@inproceedings{de2011pepsi,
+  title={PEPSI---privacy-enhanced participatory sensing infrastructure},
+  author={De Cristofaro, Emiliano and Soriente, Claudio},
+  booktitle={Proceedings of the fourth ACM conference on Wireless network security},
+  pages={23--28},
+  year={2011},
+  organization={ACM}
+}
+
+@inproceedings{blundo2008validating,
+  title={Validating Orchestration of Web Services with BPEL and Aggregate Signatures},
+  author={Blundo, Carlo and Cristofaro, Emiliano De and Galdi, Clemente and Persiano, Giuseppe},
+  booktitle={European Conference on Web Services (ECOWS)},
+  year={2008}
+}
+
+@article{chaabane2012privacy,
+  title={Privacy in Content-Oriented Networking: Threats and Countermeasures},
+  author={Chaabane, Abdelberi and De Cristofaro, Emiliano and Kaafar, Mohammed-Ali and Uzun, Ersin},
+  journal={Computer Communication Review},
+  volume={43},
+  number={3},
+  pages={25--33},
+  year={2012},
+  publisher={ACM}
+}
+
+@article{de2011sharing,
+  title={Sharing Sensitive Information with Privacy DISSERTATION},
+  author={De Cristofaro, Emiliano},
+  journal={PhD diss., UNIVERSITY OF CALIFORNIA},
+  year={2011}
+}
+
+@inproceedings{norcie2013bootstrapping,
+  title={Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles},
+  author={Norcie, Gregory and De Cristofaro, Emiliano and Bellotti, Victoria},
+  booktitle={Financial Cryptography and Data Security (FC) Workshop on Usable Security (USEC)},
+  year={2013}
+}
+
+@inproceedings{de2011reclaiming,
+  title={Reclaiming privacy for smartphone applications},
+  author={De Cristofaro, Emiliano and Durussel, Anthony and Aad, Imad},
+  booktitle={Pervasive Computing and Communications (PerCom), 2011 IEEE International Conference on},
+  pages={84--92},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{de2013secure,
+  title={Secure Genomic Testing with Size-and Position-Hiding Private Substring Matching},
+  author={De Cristofaro, Emiliano and Faber, Sky and Tsudik, Gene},
+  booktitle={WPES 2013},
+  year={2013}
+}
+
+@inproceedings{nagy2013know,
+  title={Do I know you?--Efficient and Privacy-Preserving Common Friend-Finder Protocols and Applications},
+  author={Nagy, Marcin and De Cristofaro, Emiliano and Dmitrienko, Alexandra and Asokan, N and Sadeghi, Ahmad-Reza},
+  booktitle={ACSAC 2013},
+  year={2013}
+}
+
+@inproceedings{chow2013data,
+  title={Data Handling in the Smart Grid: Do We Know Enough?},
+  author={Chow, Richard and Cardenas, Alvaro and De Cristofaro, Emiliano},
+  booktitle={International Conference on Critical Infrastructure Protection},
+  pages={21--32},
+  year={2013},
+  organization={Springer Berlin Heidelberg}
+}
+
+@inproceedings{de2013exploratory,
+  title={An Exploratory Ethnographic Study of Issues and Concerns with Whole Genome Sequencing},
+  author={De Cristofaro, Emiliano},
+  booktitle={USEC 2014},
+  year={2013}
+}
+
+@inproceedings{de2013privacy,
+  title={Privacy enhancing technologies},
+  author={De Cristofaro, Emiliano and Wright, Matthew},
+  booktitle={Proceedings of 13th International Symposium, PETS},
+  year={2013}
+}
+
+@inproceedings{chaabane2014censorship,
+  title={Censorship in the Wild: Analyzing Internet Filtering in Syria},
+  author={Chaabane, Abdelberi and Chen, Terence and Cunche, Mathieu and De Cristofaro, Emiliano and Friedman, Arik and Kafaar, Mohammed-Ali},
+  booktitle={IMC 2014},
+  year={2014}
+}
+
+@article{blundo2014espresso,
+  title={EsPRESSO: Efficient privacy-preserving evaluation of sample set similarity},
+  author={Blundo, Carlo and De Cristofaro, Emiliano and Gasti, Paolo},
+  journal={Journal of Computer Security},
+  volume={22},
+  number={3},
+  pages={355--381},
+  year={2014},
+  publisher={IOS Press}
+}
+
+@article{de2014genomic,
+  title={Genomic privacy and the rise of a new research community},
+  author={De Cristofaro, Emiliano},
+  journal={IEEE Security \& Privacy},
+  volume={12},
+  number={2},
+  pages={80--83},
+  year={2014},
+  publisher={IEEE}
+}
+
+@inproceedings{de2014comparative,
+  title={A Comparative Usability Study of Two-Factor Authentication},
+  author={De Cristofaro, Emiliano and Du, Honglu and Freudiger, Julien and Norcie, Greg},
+  booktitle={USEC 2014},
+  year={2014}
+}
+
+@inproceedings{bilogrevic2014s,
+  title={What's the Gist? Privacy-Preserving Aggregation of User Profiles},
+  author={Bilogrevic, Igor and Freudiger, Julien and De Cristofaro, Emiliano and Uzun, Ersin},
+  booktitle={ESORICS 2014},
+  year={2014}
+}
+
+@misc{de2014computer,
+  title={Computer-Implemented System And Method For Verifying Online Dating Profiles},
+  author={De Cristofaro, Emiliano and Bellotti, Victoria M and Norcie, Gregory},
+  year={2014},
+  month=jun # "~5",
+  note={US Patent 20,140,156,750}
+}
+
+@inproceedings{de2014paying,
+  title={Paying for Likes? Understanding Facebook Like Fraud Using Honeypots},
+  author={De Cristofaro, Emiliano and Friedman, Arik and Jourjon, Guillaume and Kaafar, Mohamed Ali and Shafiq, M Zubair},
+  year={2014},
+  organization={IMC 2014}
+}
+
+@article{hamacher2014genomic,
+  title={Genomic Privacy (Dagstuhl Seminar 13412)},
+  author={Hamacher, Kay and Hubaux, Jean Pierre and Tsudik, Gene},
+  journal={Dagstuhl Reports},
+  volume={3},
+  number={10},
+  year={2014},
+  publisher={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+@inproceedings{krol2015they,
+  title={"They brought in the horrible key ring thing!" Analysing the Usability of Two-Factor Authentication in UK Online Banking},
+  author={Krol, Kat and Philippou, Eleni and De Cristofaro, Emiliano and Sasse, M Angela},
+  booktitle={USEC 2016},
+  year={2015}
+}
+
+@inproceedings{beato2014undetectable,
+  title={Undetectable communication: The online social networks case},
+  author={Beato, Filipe and De Cristofaro, Emiliano and Rasmussen, Kasper B},
+  booktitle={2014 Twelfth Annual International Conference on Privacy, Security and Trust},
+  pages={19--26},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{de2013participatory,
+  title={Participatory privacy: Enabling privacy in participatory sensing},
+  author={De Cristofaro, Emiliano and Soriente, Claudio},
+  journal={Network, IEEE},
+  volume={27},
+  number={1},
+  pages={32--36},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{freudiger2015controlled,
+  title={Controlled Data Sharing for Collaborative Predictive Blacklisting},
+  author={Freudiger, Julien and De Cristofaro, Emiliano and Brito, Alex},
+  booktitle={DIMVA 2015},
+  year={2015}
+}
+
+@inproceedings{onwuzurike2015danger,
+  title={Danger is My Middle Name: Experimenting with SSL Vulnerabilities in Android Apps},
+  author={Onwuzurike, Lucky and De Cristofaro, Emiliano},
+  booktitle={ACM WiSec 2015},
+  year={2015}
+}
+
+@misc{de2016method,
+  title={Method and apparatus for privacy and trust enhancing sharing of data for collaborative analytics},
+  author={De Cristofaro, Emiliano and Freudiger, Julien F and Uzun, Ersin and Brito, Alejandro E and Bern, Marshall W},
+  year={2016},
+  month=mar # "~1",
+  note={US Patent 9,275,237}
+}
+
+@inproceedings{de2011private,
+  title={Private discovery of common social contacts},
+  author={De Cristofaro, Emiliano and Manulis, Mark and Poettering, Bertram},
+  booktitle={International Conference on Applied Cryptography and Network Security},
+  pages={147--165},
+  year={2011},
+  organization={Springer Berlin Heidelberg}
+}
+
+@inproceedings{danezis2014fast,
+  title={Fast and Private Genomic Testing for Disease Susceptibility},
+  author={Danezis, George and De Cristofaro, Emiliano},
+  booktitle={Proceedings of the 13th Workshop on Privacy in the Electronic Society},
+  pages={31--34},
+  year={2014},
+  organization={ACM}
+}
+
+@article{degenopri,
+  title={GenoPri 2015},
+  author={De Cristofaro, Emiliano and Malin, Bradley and Jiang, Xiaoqian and Ayday, Erman and Bogdanov, Dan and Burton, Paul and Bush, Will and Clayton, Ellen Wright and Craig, David and Dove, Edward and others}
+}
+
+@article{de2013extended,
+  title={Extended capabilities for a privacy-enhanced participatory sensing infrastructure (pepsi)},
+  author={De Cristofaro, Emiliano and Soriente, Claudio},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={8},
+  number={12},
+  pages={2021--2033},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{melis2016efficient,
+  title={Efficient Private Statistics with Succinct Sketches},
+  author={Melis, Luca and Danezis, George and De Cristofaro, Emiliano},
+  booktitle={Network and Distributed Systems Symposium (NDSS)},
+  year={2016}
+}
+
+@inproceedings{auletta2006performance,
+  title={Performance evaluation of web services invocation over Bluetooth},
+  author={Auletta, Vincenzo and Blundo, Carlo and De Cristofaro, Emiliano and Raimato, Guerriero},
+  booktitle={Proceedings of the ACM international workshop on Performance monitoring, measurement, and evaluation of heterogeneous wireless and wired networks},
+  pages={1--8},
+  year={2006},
+  organization={ACM}
+}
+
+@inproceedings{onwuzurike2015experimental,
+  title={Experimental Analysis of Popular Smartphone Apps Offering Anonymity, Ephemerality, and End-to-End Encryption},
+  author={Onwuzurike, Lucky and De Cristofaro, Emiliano},
+  booktitle={UEOP 2016},
+  year={2015}
+}
+
+@misc{freudiger2017portable,
+  title={Portable proxy for security management and privacy protection and method of use},
+  author={Freudiger, Julien and Uzun, Ersin and De Cristofaro, Emiliano and Sarwar, Golam},
+  year={2017},
+  month=feb # "~21",
+  note={US Patent 9,578,062}
+}
+
+@inproceedings{de2009privacy,
+  title={Privacy-preserving querying in sensor networks},
+  author={De Cristofaro, Emiliano and Ding, Xuhua and Tsudik, Gene},
+  booktitle={Computer Communications and Networks, 2009. ICCCN 2009. Proceedings of 18th Internatonal Conference on},
+  pages={1--6},
+  year={2009},
+  organization={IEEE}
+}
+
+@misc{bilogrevic2015privacy,
+  title={PRIVACY-SENSITIVE RANKING OF USER DATA},
+  author={Bilogrevic, Igor and Freudiger, Julien F and De Cristofaro, Emiliano and Uzun, Ersin},
+  year={2015},
+  month=dec # "~24",
+  note={US Patent 20,150,371,059}
+}
+
+@misc{bilogrevic2015private,
+  title={PRIVATE AND DISTRIBUTED COMPUTATION OF PROBABILITY DENSITY FUNCTIONS},
+  author={Bilogrevic, Igor and Freudiger, Julien F and De Cristofaro, Emiliano and Uzun, Ersin},
+  year={2015},
+  month=dec # "~24",
+  note={US Patent 20,150,372,808}
+}
+
+@inproceedings{asghar2016splitbox,
+  title={SplitBox: Toward Efficient Private Network Function Virtualization},
+  author={Asghar, Hassan Jameel and Melis, Luca and Soldani, Cyril and De Cristofaro, Emiliano and Kaafar, Mohamed Ali and Mathy, Laurent},
+  booktitle={Proceedings of the 2016 workshop on Hot topics in Middleboxes and Network Function Virtualization},
+  pages={7--13},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{nithyanand2016ad,
+  title={Ad-Blocking and Counter Blocking: A Slice of the Arms Race},
+  author={Nithyanand, Rishab and Khattak, Sheharbano and Javed, Mobin and Vallina-Rodriguez, Narseo and Falahrastegar, Marjan and Powles, Julia E and De Cristofaro, Emiliano and Haddadi, Hamed and Murdoch, Steven J},
+  booktitle={FOCI 2016},
+  year={2016}
+}
+
+@misc{freudiger2016methods,
+  title={Methods for centralized privacy-preserving collaborative threat mitigation},
+  author={Freudiger, Julien F and De Cristofaro, Emiliano and Brito, Alejandro E and Bern, Marshall W and Uzun, Ersin},
+  year={2016},
+  month=oct # "~25",
+  note={US Patent 9,477,839}
+}
+
+@inproceedings{melis2016private,
+  title={Private Processing of Outsourced Network Functions: Feasibility and Constructions},
+  author={Melis, Luca and Asghar, Hassan Jameel and De Cristofaro, Emiliano and Kaafar, Mohamed Ali},
+  booktitle={Proceedings of the 2016 ACM International Workshop on Security in Software Defined Networks \& Network Function Virtualization},
+  pages={39--44},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{de2007secure,
+  title={A secure and privacy-protecting aggregation scheme for sensor networks},
+  author={De Cristofaro, Emiliano},
+  booktitle={2007 IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks},
+  pages={1--5},
+  year={2007},
+  organization={IEEE}
+}
+
+@misc{auletta2008http,
+  title={HTTP over Bluetooth: a J2ME experience},
+  author={Auletta, Vincenzo and Blundo, Carlo and De Cristofaro, Emiliano},
+  journal={IARIA. The International Journal On Advances in Telecommunications},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@inproceedings{pyrgelis2016privacy,
+  title={Privacy-Friendly Mobility Analytics using Aggregate Location Data},
+  author={Pyrgelis, Apostolos and De Cristofaro, Emiliano and Ross, Gordon},
+  booktitle={ACM SIGSPATIAL 2016},
+  year={2016}
+}
+
+@inproceedings{hine2017kek,
+  title={Kek, Cucks, and God Emperor Trump: A Measurement Study of 4chan's Politically Incorrect Forum and Its Effects on the Web},
+  author={Hine, Gabriel Emile and Onaolapo, Jeremiah and De Cristofaro, Emiliano and Kourtellis, Nicolas and Leontiadis, Ilias and Samaras, Riginos and Stringhini, Gianluca and Blackburn, Jeremy},
+  booktitle={11th International AAAI Conference on Web and Social Media (ICWSM 2017)},
+  year={2017}
+}
+
+@inproceedings{sajadmanesh2017kissing,
+  title={Kissing Cuisines: Exploring Worldwide Culinary Habits on the Web},
+  author={Sajadmanesh, Sina and Jafarzadeh, Sina and Ossia, Seyed Ali and Rabiee, Hamid R and Haddadi, Hamed and Mejova, Yelena and Musolesi, Mirco and De Cristofaro, Emiliano and Stringhini, Gianluca},
+  booktitle={WWW Web Science},
+  year={2017}
+}
+
+@inproceedings{de2016privacy,
+  title={Privacy-Preserving Genetic Relatedness Test},
+  author={De Cristofaro, Emiliano and Liang, Kaitai and Zhang, Yuruo},
+  booktitle={GenoPri 2016},
+  year={2016}
+}
+
+@inproceedings{mariconti2017mamadroid,
+  title={MamaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models},
+  author={Mariconti, Enrico and Onwuzurike, Lucky and Andriotis, Panagiotis and De Cristofaro, Emiliano and Ross, Gordon and Stringhini, Gianluca},
+  booktitle={24th Network and Distributed System Security Symposium (NDSS 2017)},
+  year={2017}
+}
+
+@misc{freudiger2017methods,
+  title={Methods for selection of collaborators for online threat mitigation},
+  author={Freudiger, Julien F and De Cristofaro, Emiliano and Brito, Alejandro E and Bern, Marshall W and Uzun, Ersin},
+  year={2017},
+  month=nov # "~14",
+  note={US Patent 9,817,977}
+}
+
+@misc{de2013privacy,
+  title={Privacy Enhancing Technologies: 13th International Symposium, PETS 2013, Bloomington, IN, USA, July 10-12, 2013, Proceedings},
+  author={De Cristofaro, Emiliano and Wright, Matthew},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{haddadi2016adblocking,
+  title={The adblocking tug-of-war},
+  author={Haddadi, Hamed and Nithyanand, Rishab and Khattak, Sheharbano and Javed, Mobin and Vallina-Rodriguez, Narseo and Falahrastegar, Marjan and Powles, Julia E and De Cristofaro, Emiliano and Murdoch, Steven J},
+  journal={Login USENIX Mag},
+  volume={41},
+  number={4},
+  pages={41--43},
+  year={2016}
+}
+
+@inproceedings{chatzakou2017measuring,
+  title={Measuring \#GamerGate: A Tale of Hate, Sexism, and Bullying},
+  author={Chatzakou, Despoina and Kourtellis, Nicolas and Blackburn, Jeremy and De Cristofaro, Emiliano and Stringhini, Gianluca and Vakali, Athena},
+  booktitle={Proceedings of the 26th International Conference on World Wide Web Companion},
+  pages={1285--1290},
+  year={2017}
+}
+
+@inproceedings{pyrgelis2017does,
+  title={What Does The Crowd Say About You? Evaluating Aggregation-based Location Privacy},
+  author={Pyrgelis, Apostolos and Troncoso, Carmela and De Cristofaro, Emiliano},
+  booktitle={Privacy Enhancing Technologies Symposium},
+  year={2017}
+}
+
+@inproceedings{farooqi2017characterizing,
+  title={Characterizing Key Stakeholders in an Online Black-Hat Marketplace},
+  author={Farooqi, Shehroze and Jourjon, Guillaume and Ikram, Muhammad and Kaafar, Mohamed Ali and De Cristofaro, Emiliano and Shafiq, Zubair and Friedman, Arik and Zaffar, Fareed},
+  booktitle={12th IEEE/APWG Symposium on Electronic Crime Research (eCrime 2017)},
+  year={2017}
+}
+
+@inproceedings{zannettou2017web,
+  title={The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources},
+  author={Zannettou, Savvas and Caulfield, Tristan and De Cristofaro, Emiliano and Kourtellis, Nicolas and Leontiadis, Ilias and Sirivianos, Michael and Stringhini, Gianluca and Blackburn, Jeremy},
+  booktitle={17th ACM Internet Measurement Conference (IMC 2017)},
+  year={2017}
+}
+
+@article{ikram2017measuring,
+  title={Measuring, Characterizing, and Detecting Facebook Like Farms},
+  author={Ikram, Muhammad and Onwuzurike, Lucky and Farooqi, Shehroze and De Cristofaro, Emiliano and Friedman, Arik and Jourjon, Guillaume and Kaafar, Dali and Shafiq, M Zubair},
+  journal={ACM Transactions on Privacy and Security (ACM TOPS)},
+  year={2017}
+}
+
+@inproceedings{pyrgelis2018knock,
+  title={Knock Knock, Who's There? Membership Inference on Aggregate Location Data},
+  author={Pyrgelis, Apostolos and Troncoso, Carmela and De Cristofaro, Emiliano},
+  booktitle={Network and Distributed Systems Symposium (NDSS)},
+  year={2018}
+}
+
+@inproceedings{de2012preserving,
+  title={Preserving query privacy in urban sensing systems},
+  author={De Cristofaro, Emiliano and Di Pietro, Roberto},
+  booktitle={International Conference on Distributed Computing and Networking},
+  pages={218--233},
+  year={2012},
+  organization={Springer, Berlin, Heidelberg}
+}
+
+@article{de2012adversaries,
+  title={Adversaries and countermeasures in privacy-enhanced urban sensing systems},
+  author={De Cristofaro, Emiliano and Di Pietro, Roberto},
+  journal={IEEE Systems Journal},
+  volume={7},
+  number={2},
+  pages={311--322},
+  year={2012},
+  publisher={IEEE}
+}
+
+@inproceedings{acs2017differentially,
+  title={Differentially Private Mixture of Generative Neural Networks},
+  author={Acs, Gergely and Melis, Luca and Castelluccia, Claude and De Cristofaro, Emiliano},
+  booktitle={17th IEEE International Conference on Data Mining (ICDM 2017)},
+  year={2017}
+}
+
+@article{onwuzurike2019mamadroid,
+  title={MaMaDroid: Detecting android malware by building markov chains of behavioral models (extended version)},
+  author={Onwuzurike, Lucky and Mariconti, Enrico and Andriotis, Panagiotis and Cristofaro, Emiliano De and Ross, Gordon and Stringhini, Gianluca},
+  journal={ACM Transactions on Privacy and Security (TOPS)},
+  volume={22},
+  number={2},
+  pages={14},
+  year={2019},
+  publisher={ACM}
+}
+
+@article{mittos201823andme,
+  title={"23andMe confirms: I'm super white" -- Analyzing Twitter Discourse On Genetic Testing},
+  author={Mittos, Alexandros and Blackburn, Jeremy and De Cristofaro, Emiliano},
+  journal={arXiv preprint arXiv:1801.09946},
+  year={2018}
+}
+
+@inproceedings{zannettou2019disinformation,
+  title={Disinformation warfare: Understanding state-sponsored trolls on Twitter and their influence on the Web},
+  author={Zannettou, Savvas and Caulfield, Tristan and De Cristofaro, Emiliano and Sirivianos, Michael and Stringhini, Gianluca and Blackburn, Jeremy},
+  booktitle={Companion Proceedings of The 2019 World Wide Web Conference},
+  pages={218--226},
+  year={2019},
+  organization={ACM}
+}
+
+@inproceedings{zannettou2018understanding,
+  title={Understanding Web Archiving Services and Their (Mis) Use on Social Media},
+  author={Zannettou, Savvas and Blackburn, Jeremy and De Cristofaro, Emiliano and Sirivianos, Michael and Stringhini, Gianluca},
+  booktitle={Twelfth International AAAI Conference on Web and Social Media},
+  year={2018}
+}
+
+@article{ioannou2018risk,
+  title={From risk factors to detection and intervention: a practical proposal for future work on cyberbullying},
+  author={Ioannou, Andri and Blackburn, Jeremy and Stringhini, Gianluca and De Cristofaro, Emiliano and Kourtellis, Nicolas and Sirivianos, Michael},
+  journal={Behaviour \& Information Technology},
+  volume={37},
+  number={3},
+  pages={258--266},
+  year={2018},
+  publisher={Taylor \& Francis}
+}
+
+@inproceedings{zannettou2018gab,
+  title={What is gab: A bastion of free speech or an alt-right echo chamber},
+  author={Zannettou, Savvas and Bradlyn, Barry and De Cristofaro, Emiliano and Kwak, Haewoon and Sirivianos, Michael and Stringini, Gianluca and Blackburn, Jeremy},
+  booktitle={Companion of the The Web Conference 2018 on The Web Conference 2018},
+  pages={1007--1014},
+  year={2018},
+  organization={International World Wide Web Conferences Steering Committee}
+}
+
+@inproceedings{blackburn2018cybersafety,
+  title={Cybersafety in Modern Online Social Networks (Dagstuhl Reports 17372)},
+  author={Blackburn, Jeremy and De Cristofaro, Emiliano and Sirivianos, Michael and Strufe, Thorsten},
+  booktitle={Dagstuhl Reports},
+  volume={7},
+  number={9},
+  year={2018},
+  organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+@inproceedings{auletta2007j2me,
+  title={A J2ME transparent middleware to support HTTP connections over Bluetooth},
+  author={Auletta, Vincenzo and Blundo, Carlo and De Cristofaro, Emiliano},
+  booktitle={Systems and Networks Communications, 2007. ICSNC 2007. Second International Conference on},
+  pages={3--3},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{auletta2006lightweight,
+  title={A Lightweight Framework forWeb Services Invocation over Bluetooth},
+  author={Auletta, Vincenzo and Blundo, Carlo and De Cristofaro, Emiliano and Raimato, Guerriero},
+  booktitle={Web Services, 2006. ICWS'06. International Conference on},
+  pages={331--338},
+  year={2006},
+  organization={IEEE}
+}
+
+@article{ayday2015whole,
+  title={Whole genome sequencing: Revolutionary medicine or privacy nightmare?},
+  author={Ayday, Erman and De Cristofaro, Emiliano and Hubaux, Jean-Pierre and Tsudik, Gene},
+  journal={IEEE Computer},
+  volume={48},
+  number={2},
+  year={2015}
+}
+
+@inproceedings{chatzakou2017mean,
+  title={Mean birds: Detecting aggression and bullying on twitter},
+  author={Chatzakou, Despoina and Kourtellis, Nicolas and Blackburn, Jeremy and De Cristofaro, Emiliano and Stringhini, Gianluca and Vakali, Athena},
+  booktitle={Proceedings of the 2017 ACM on Web Science Conference},
+  pages={13--22},
+  year={2017},
+  organization={ACM}
+}
+
+@inproceedings{kotonya2018wines,
+  title={Of Wines and Reviews: Measuring and Modeling the Vivino Wine Social Network},
+  author={Kotonya, Neema and De Cristofaro, Paolo and De Cristofaro, Emiliano},
+  booktitle={2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  pages={387--392},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{mariconti2018you,
+  title={" You Know What to Do": Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks},
+  author={Mariconti, Enrico and Suarez-Tangil, Guillermo and Blackburn, Jeremy and De Cristofaro, Emiliano and Kourtellis, Nicolas and Leontiadis, Ilias and Serrano, Jordi Luque and Stringhini, Gianluca},
+  journal={arXiv preprint arXiv:1805.08168},
+  year={2018}
+}
+
+@inproceedings{zannettou2018origins,
+  title={On the Origins of Memes by Means of Fringe Web Communities},
+  author={Zannettou, Savvas and Caulfield, Tristan and Blackburn, Jeremy and De Cristofaro, Emiliano and Sirivianos, Michael and Stringhini, Gianluca and Suarez-Tangil, Guillermo},
+  booktitle={ACM Internet Measurement Conference},
+  year={2018}
+}
+
+@article{de2012performance,
+  title={On the performance of certain private set intersection protocols},
+  author={De Cristofaro, Emiliano and Tsudik, Gene},
+  journal={IACR Cryptology. http://eprint. iacr. org/2012/054},
+  year={2012}
+}
+
+@article{perillo2017papeete,
+  title={PAPEETE: Private, Authorized, and Fast Personal Genomic Testing},
+  author={Perillo, Angelo Massimo and De Cristofaro, Emiliano},
+  journal={work},
+  volume={2},
+  pages={4},
+  year={2017}
+}
+
+@article{mittos2019systematizing,
+  title={Systematizing Genome Privacy Research: A Privacy-Enhancing Technologies Perspective},
+  author={Mittos, Alexandros and Malin, Bradley and De Cristofaro, Emiliano},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  volume={2019},
+  number={1},
+  pages={87--107},
+  year={2019},
+  publisher={Sciendo}
+}
+
+@inproceedings{onwuzurike2018family,
+  title={A Family of Droids-Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis},
+  author={Onwuzurike, Lucky and Almeida, Mario and Mariconti, Enrico and Blackburn, Jeremy and Stringhini, Gianluca and De Cristofaro, Emiliano},
+  booktitle={2018 16th Annual Conference on Privacy, Security and Trust (PST)},
+  pages={1--10},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{melis2019collaborative,
+  title={On collaborative predictive blacklisting},
+  author={Melis, Luca and Pyrgelis, Apostolos and De Cristofaro, Emiliano},
+  journal={ACM SIGCOMM Computer Communication Review},
+  volume={48},
+  number={5},
+  pages={9--20},
+  year={2019},
+  publisher={ACM}
+}
+
+@article{ayday2013chills,
+  title={The chills and thrills of whole genome sequencing},
+  author={Ayday, Erman and De Cristofaro, Emiliano and Hubaux, Jean-Pierre and Tsudik, Gene},
+  journal={Computer},
+  volume={48},
+  number={2},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{hayes2019logan,
+  title={LOGAN: Membership Inference Attacks Against Generative Models},
+  author={Hayes, Jamie and Melis, Luca and Danezis, George and De Cristofaro, Emiliano},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  volume={2019},
+  number={1},
+  pages={133--152},
+  year={2019},
+  publisher={Sciendo}
+}
+
+@inproceedings{de2018lobo,
+  title={LOBO: Evaluation of Generalization Deficiencies in Twitter Bot Classifiers},
+  author={De Cristofaro, Emiliano and Kourtellis, Nicolas and Leontiadis, Ilias and Stringhini, Gianluca and Zhou, Shi and others},
+  booktitle={Proceedings of the 34th Annual Computer Security Applications Conference},
+  pages={137--146},
+  year={2018},
+  organization={ACM}
+}
+
+@inproceedings{melis2019exploiting,
+  title={Exploiting Unintended Feature Leakage in Collaborative Learning},
+  author={Melis, L and Song, C and De Cristofaro, E and Shmatikov, V},
+  year={2019},
+  organization={IEEE Symposium on Security and Privacy}
+}
+
+@article{zannettou2019characterizing,
+  title={Characterizing the Use of Images by State-Sponsored Troll Accounts on Twitter},
+  author={Zannettou, Savvas and Bradlyn, Barry and De Cristofaro, Emiliano and Stringhini, Gianluca and Blackburn, Jeremy},
+  journal={arXiv preprint arXiv:1901.05997},
+  year={2019}
+}
+
+@article{mittos2019and,
+  title={"And We Will Fight For Our Race!'" A Measurement Study of Genetic Testing Conversations on Reddit and 4chan},
+  author={Mittos, Alexandros and Zannettou, Savvas and Blackburn, Jeremy and De Cristofaro, Emiliano},
+  journal={arXiv preprint arXiv:1901.09735},
+  year={2019}
+}
+
+@inproceedings{chatzakou2017hate,
+  title={Hate is not binary: Studying abusive behavior of \#GamerGate on Twitter},
+  author={Chatzakou, Despoina and Kourtellis, Nicolas and Blackburn, Jeremy and De Cristofaro, Emiliano and Stringhini, Gianluca and Vakali, Athena},
+  booktitle={Proceedings of the 28th ACM conference on hypertext and social media},
+  pages={65--74},
+  year={2017},
+  organization={ACM}
+}
+
+@article{oprisanu2018anonimme,
+  title={AnoniMME: bringing anonymity to the Matchmaker Exchange platform for rare disease gene discovery},
+  author={Oprisanu, Bristena and De Cristofaro, Emiliano},
+  journal={Bioinformatics},
+  volume={34},
+  number={13},
+  pages={i160--i168},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{pyrgelis2019under,
+  title={Under the Hood of Membership Inference Attacks on Aggregate Location Time-Series},
+  author={Pyrgelis, Apostolos and Troncoso, Carmela and De Cristofaro, Emiliano},
+  journal={arXiv preprint arXiv:1902.07456},
+  year={2019}
+}
+
+@inproceedings{primault2019privacy,
+  title={Privacy-Preserving Crowd-Sourcing of Web Searches with Private Data Donor},
+  author={Primault, V and Lampos, V and Cox, I and De Cristofaro, E},
+  booktitle={The Web Conference (WWW 2019)},
+  year={2019},
+  organization={ACM}
+}
+
+@book{de2014privacy,
+  title={Privacy Enhancing Technologies: 14th International Symposium, PETS 2014, Amsterdam, The Netherlands, July 16-18, 2014, Proceedings},
+  author={De Cristofaro, Emiliano and Murdoch, Steven J},
+  volume={8555},
+  year={2014},
+  publisher={Springer}
+}
