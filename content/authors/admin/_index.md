@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University College London
+- name: University College London Computer Science
   url: ""
 
 interests:
